@@ -1,3 +1,6 @@
+let randomMessageGenerator = function () {
+    []
+}
 const wordSet_1 = ['My', 'We', 'Their', 'Mohan', 'Sohan\'s', 'Rohan\'s']
 const randIdx1 = Math.floor(Math.random()*wordSet_1.length)
 const wordSet_2 = ['lion', 'camel', 'horse', 'fish']
